@@ -1,0 +1,5 @@
+IP: 84.201.166.83;
+name_taski: https://bakhvalov.zapto.org/;
+name_kittygram: https://bakhvalov.ddns.net/;
+login: admin;
+password: admin;
